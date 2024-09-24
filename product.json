@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "Ноутбук Apple MacBook Air M1 13' 8/256 2020",
+        "description": "MacBook Air — найтонший і найлегший ноутбук від Apple. А тепер завдяки чипу Apple M1 він іще й надпотужний.",
+        "price": "36 499",
+        "image": "https://content1.rozetka.com.ua/goods/images/big/144249716.jpg",
+        "article": "(MGN63UA/A)",
+        "color": "Space Gray"
+    },
+    {
+        "id": 2,
+        "name": "Ноутбук Apple MacBook Air M2 13' 8/256GB 2022",
+        "description": "MacBook Air. Новий дизайн. Нові можливості. З турбопотужністю М2.",
+        "price": "48 499",
+        "image": "https://content2.rozetka.com.ua/goods/images/big/269256825.jpg",
+        "article": "(MLXY3)",
+        "color": "Silver"
+    },
+    {
+        "id": 3,
+        "name": "Ноутбук Apple MacBook Air 13.6' M3 8/256GB 2024",
+        "description": "Це легко. Це сильно. Це М3. Надзвичайно швидкий MacBook Air із чипом M3 — це неймовірно компактний ноутбук, що відмінно впорається з робочими завданнями й іграми.",
+        "price": "53 499",
+        "image": "https://content.rozetka.com.ua/goods/images/big/414330524.jpg",
+        "article": "(MRXQ3UA/A)",
+        "color": "Silver"
+    },
+    {
+        "id": 4,
+        "name": "Ноутбук Apple MacBook Pro 16' M1 Pro 32/1TB 2021",
+        "description": "Apple створили найпотужніший MacBook Pro в історії. І це монстр. Супершвидкий процесор — перший чип Apple розроблений спеціально для професіоналів.",
+        "price": "80 999",
+        "image": "https://content2.rozetka.com.ua/goods/images/big/439131252.jpg",
+        "article": "(DTXRF01)",
+        "color": "Space Gray"
+    },
+    {
+        "id": 5,
+        "name": "Ноутбук Apple MacBook Pro 14' M3 8/512GB 2023",
+        "description": "MacBook Pro 14 дюймів виривається вперед завдяки інноваційному чипу M3, який забезпечує неймовірні можливості та швидкість. неймовірні можливості та швидкість.",
+        "price": "76 999",
+        "image": "https://content2.rozetka.com.ua/goods/images/big/377364824.jpg",
+        "article": "(MTL73UA/A)",
+        "color": "Space Gray"
+    },
+    {
+        "id": 6,
+        "name": "Ноутбук Apple MacBook Pro 16' M3 Pro 18/512GB 2023",
+        "description": "MacBook Pro 16 дюймів виривається вперед завдяки абсолютно передовим чипам M3 Pro та M3 Max, які забезпечують неймовірні можливості й продуктивність для найскладніших процесів.",
+        "price": "119 999",
+        "image": "https://content1.rozetka.com.ua/goods/images/big/377402955.jpg",
+        "article": "(MRW13UA/A)",
+        "color": "Space Black"
+    },
+    {
+        "id": 7,
+        "name": "Ноутбук Apple MacBook Pro 16' M3 Max 48/1TB 2023",
+        "description": "MacBook Pro 16 дюймів виривається вперед завдяки абсолютно передовим чипам M3 Pro та M3 Max, які забезпечують неймовірні можливості й продуктивність для найскладніших процесів.",
+        "price": "199 999",
+        "image": "https://content2.rozetka.com.ua/goods/images/big/377417810.jpg",
+        "article": "(MUW73UA/A)",
+        "color": "Silver"
+    },
+    {
+        "id": 8,
+        "name": "Ноутбук Apple MacBook Pro 16' M1 Pro 32/512GB 2021",
+        "description": "Apple створили найпотужніший MacBook Pro в історії. І це монстр. Супершвидкий процесор — перший чип Apple розроблений спеціально для професіоналів.",
+        "price": "73 999",
+        "image": "https://content1.rozetka.com.ua/goods/images/big/439131312.jpg",
+        "article": "(DTXRA02)",
+        "color": "Space Gray"
+    },
+    {
+        "id": 9,
+        "name": "Ноутбук Apple MacBook Air 15.3' M3 8/512GB 2024",
+        "description": "Надзвичайно швидкий MacBook Air із чипом M3 — це неймовірно компактний ноутбук, що відмінно впорається з робочими завданнями й іграми.",
+        "price": "73 499",
+        "image": "https://content2.rozetka.com.ua/goods/images/big/414338531.jpg",
+        "article": "(MRYQ3UA/A)",
+        "color": "Silver"
+    },
+    {
+        "id": 10,
+        "name": "Ноутбук Apple MacBook Pro 16' M3 Pro 36/512GB 2023",
+        "description": "MacBook Pro 16 дюймів виривається вперед завдяки абсолютно передовим чипам M3 Pro та M3 Max, які забезпечують неймовірні можливості й продуктивність для найскладніших процесів.",
+        "price": "141 999",
+        "image": "https://content.rozetka.com.ua/goods/images/big/377408983.jpg",
+        "article": "(MRW23UA/A)",
+        "color": "Space Black"
+    },
+    {
+        "id": 11,
+        "name": "Ноутбук Apple MacBook Pro 16' M3 Max 36/1TB 2023 ",
+        "description": "MacBook Pro 16 дюймів виривається вперед завдяки абсолютно передовим чипам M3 Pro та M3 Max, які забезпечують неймовірні можливості й продуктивність для найскладніших процесів.",
+        "price": "173 499",
+        "image": "https://content2.rozetka.com.ua/goods/images/big/377411533.jpg",
+        "article": "(MRW73UA/A)",
+        "color": "Silver"
+    },
+    {
+        "id": 12,
+        "name": "Ноутбук Apple MacBook Air 15.3' M2 8/256GB 2023",
+        "description": "MacBook Air 15'. Новий дизайн. Нові можливості. З турбопотужністю M2.",
+        "price": "62 499",
+        "image": "https://content.rozetka.com.ua/goods/images/big/341853749.jpg",
+        "article": "(MQKU3UA/A)",
+        "color": "Starlight"
+    }
+]
