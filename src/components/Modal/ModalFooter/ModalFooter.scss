@@ -1,0 +1,42 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 64px;
+    gap: 64px;
+}
+
+.first-btn {
+    background: #8A33FD;
+    color: #FFF;
+    font-size: 16px;
+    font-family: Roboto;
+    border: none;
+    border-radius: 8px;
+    padding: 16px 20px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    width: 192px;
+    cursor: pointer;
+
+    &:hover {
+        background: darkviolet;
+        color: white;
+    }
+}
+
+.second-btn {
+    background: #FFF;
+    color: #8A33FD;
+    font-size: 16px;
+    font-family: Roboto;
+    border: none;
+    border-radius: 8px;
+    border: 1px solid #3C4242;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    padding: 16px 20px;
+    width: 192px;
+    cursor: pointer;
+
+    &:hover {
+        background: rgba(228, 223, 225, 0.8);
+    }
+}
