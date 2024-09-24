@@ -7,7 +7,7 @@ import { Provider } from 'react-redux'
 import { store } from './store.js'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <Provider store={store}>
+  <Provider store={store} basename={import.meta.env.BASE_URL}>
     <RouterProvider router={router} />
   </Provider>
 )
